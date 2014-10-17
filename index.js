@@ -1,4 +1,4 @@
-var htmlparser = require('htmlparser2');
+var htmlparser = require('htmlparser');
 var _ = require('lodash');
 var he = require('he');
 
